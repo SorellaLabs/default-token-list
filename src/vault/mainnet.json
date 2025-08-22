@@ -8,10 +8,10 @@
     "vaultAddress": "0x5C55C2A38c3b20e7Da7417d3ca5d8443b9409B7E",
     "logoURI": "",
     "eip712Domain": {
-      "Name": "IntentsTeller",
-      "Version": "0.0",
-      "ChainId": 1,
-      "VerifyingContract": "0xeb365836F8C45Cba96B57a844B9146a949A7faB2"
+      "name": "IntentsTeller",
+      "version": "0.0",
+      "chainId": 1,
+      "verifyingContract": "0xeb365836F8C45Cba96B57a844B9146a949A7faB2"
     }
   }
 ]
