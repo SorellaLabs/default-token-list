@@ -4,7 +4,7 @@
     "strategy": "WETH/USDC Market Neutral",
     "description": "",
     "symbol": "svUSDCWETH",
-    "tokenWhitelist": ["0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48", "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"],
+    "poolAddress": "0xe500210c7ea6bfd9f69dce044b09ef384ec2b34832f132baec3b418208e3a657",
     "vaultAddress": "0x5C55C2A38c3b20e7Da7417d3ca5d8443b9409B7E",
     "logoURI": "",
     "eip712Domain": {
